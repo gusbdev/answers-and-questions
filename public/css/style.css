@@ -1,0 +1,11 @@
+body {
+  background-color: #eceff1;
+}
+
+#form-question {
+  margin-top: 5vh;
+}
+
+#btn-ask {
+  background-color: #6f42c1;
+}
